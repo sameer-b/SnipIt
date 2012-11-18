@@ -1,0 +1,44 @@
+#wrap {
+	width:600px;
+	border-radius:30px;
+	border:10px solid black;
+	background-color: gray;
+
+
+}
+label {
+	margin-left: 5px;
+}
+#snippit {
+
+    margin-top: 20px;
+	width:300px;
+	height:50px;
+	border-radius: 8px;
+	background-color: #e3e3e3;
+}
+
+#button {
+	color:blue;
+
+}
+
+#result1 ,#result2 ,#result3 ,#result4 ,#result5 {
+	padding: 5px;
+}
+::-webkit-input-placeholder {
+    color: blue;
+}
+
+
+*:focus {outline: none;}
+
+body {font: 14px/21px "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;}
+.contact_form h2, .contact_form label {font-family:Georgia, Times, "Times New Roman", serif;}
+.form_hint, .required_notification {font-size: 11px;}
+
+
+#copyright {
+text-align: right;
+padding-right: 25px;
+}
